@@ -1,0 +1,12 @@
+.vscode/
+.DS_Store
+
+recover/package-lock.json
+recover/node_modules/
+recover/build/
+recover/dist/
+recover/log/
+ 
+
+ 
+ 
